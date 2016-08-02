@@ -203,7 +203,11 @@ section h2 {
   font-size: 3em;
 }
 section.instinct {
-  background: rgba(50,50,0,0.7);
+  background: rgba(125,91,54,0.7);
+  color: white;
+}
+section.dark {
+  background: rgba(0,0,0,0.7);
   color: white;
 }
 section.mystic {

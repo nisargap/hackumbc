@@ -39,7 +39,7 @@
 .lg-icon {
 	font-size: 2em;
 	margin-right: 0.2em;
-	color: red;
+	color: rgb(224,228,198);
 }
 .show-inline {
 	display: inline-block;
@@ -49,7 +49,7 @@
 }
 .question {
 	font-size: 1.4em;
-	color: #FFFF00;
+	color: rgb(224,228,198);
 }
 .np-padding {
 	padding-left: 3em;
