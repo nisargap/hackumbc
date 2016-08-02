@@ -9,8 +9,23 @@
   font-weight: 300;
 }
 .faded {
-	color: rgba(255,255,255,0.3);
+	color: rgba(255,255,255,0.5);
 }
 .paragraph {
 	font-size: 2em;
+}
+.inspiration {
+	padding: 2em;
+	font-size: 2em;
+}
+.lg-icon {
+	font-size: 2em;
+	margin-right: 0.2em;
+	color: #F5E8CD;
+}
+.show-inline {
+	display: inline-block;
+}
+.stats {
+	padding: 0.5em;
 }

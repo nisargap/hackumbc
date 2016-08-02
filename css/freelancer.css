@@ -4,9 +4,21 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 @import url(https://fonts.googleapis.com/css?family=Share+Tech);
+html {
+  background: url(../img/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
+  background: url(../img/bg2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 p {
   font-size: 20px;
@@ -71,11 +83,6 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: url(../img/bg2.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
   color: white;
   top:0;
     left:0;
@@ -202,7 +209,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #555;
+  background: rgba(0,0,0,0.5);
   color: white;
 }
 @media (max-width: 767px) {
