@@ -1,0 +1,16 @@
+.img-logo {
+	width: 22em;
+}
+
+.sub {
+	color: rgba(0,0,0,0.6);
+
+	font-size: 3em;
+  font-weight: 300;
+}
+.faded {
+	color: rgba(0,0,0,0.3);
+}
+.paragraph {
+	font-size: 2em;
+}
