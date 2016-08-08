@@ -1,9 +1,15 @@
 .img-logo {
-	width: 22em;
+	width: 18em;
+	margin-top: 0;
+	padding: 0;
 }
 
 .simple {
+  margin: 0 !important;
   text-shadow: 0 3px 0 rgba(0, 0, 0, 0.4);
+}
+h3{
+	margin: 0;
 }
 .otto {
   color: white;
@@ -23,11 +29,12 @@
 .sub {
 	color: rgba(255,255,255,0.9);
 
-	font-size: 3em;
+	font-size: 2em;
   font-weight: 300;
 }
 .faded {
 	color: rgba(255,255,255,0.9);
+	margin: 0;
 }
 .paragraph {
 	font-size: 2em;
@@ -58,4 +65,20 @@
 	font-size: 1.3em;
 	font-weight: bold;
 	margin-bottom: 1.8em;
+}
+.head a:link{
+	text-decoration: underline;
+	color: #ffffff !important;
+}
+.head a:visited{
+	text-decoration: underline;
+	color: #ffffff !important;
+}
+.head a:hover{
+	text-decoration: none;
+	color: #ffffff !important;
+}
+.head a:active{
+	text-decoration: underline;
+	color: #ffffff !important;
 }
